@@ -1,0 +1,4 @@
+﻿  McCain-Exam-4.c
+c:\users\david\desktop\school - spring 2018\cop class\exam 4\exam 4\mccain-exam-4.c(42): warning C4101: 'argv': unreferenced local variable
+c:\users\david\desktop\school - spring 2018\cop class\exam 4\exam 4\mccain-exam-4.c(41): warning C4101: 'argc': unreferenced local variable
+  Exam 4.vcxproj -> C:\Users\david\Desktop\School - Spring 2018\COP Class\Exam 4\Debug\Exam 4.exe

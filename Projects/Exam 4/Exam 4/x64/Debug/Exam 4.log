@@ -1,0 +1,12 @@
+﻿  McCain-Exam-4.c
+c:\users\david\desktop\school - spring 2018\cop class\exam 4\exam 4\mccain-exam-4.c(102): warning C4129: ' ': unrecognized character escape sequence
+c:\users\david\desktop\school - spring 2018\cop class\exam 4\exam 4\mccain-exam-4.c(139): warning C4129: ' ': unrecognized character escape sequence
+c:\users\david\desktop\school - spring 2018\cop class\exam 4\exam 4\mccain-exam-4.c(177): warning C4129: ' ': unrecognized character escape sequence
+c:\users\david\desktop\school - spring 2018\cop class\exam 4\exam 4\mccain-exam-4.c(215): warning C4129: ' ': unrecognized character escape sequence
+c:\users\david\desktop\school - spring 2018\cop class\exam 4\exam 4\mccain-exam-4.c(253): warning C4129: ' ': unrecognized character escape sequence
+c:\users\david\desktop\school - spring 2018\cop class\exam 4\exam 4\mccain-exam-4.c(471): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\david\desktop\school - spring 2018\cop class\exam 4\exam 4\mccain-exam-4.c(471): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\david\desktop\school - spring 2018\cop class\exam 4\exam 4\mccain-exam-4.c(92): warning C4716: 'displayBossWinsImage': must return a value
+c:\users\david\desktop\school - spring 2018\cop class\exam 4\exam 4\mccain-exam-4.c(75): warning C4716: 'displayLaughingBossImage': must return a value
+c:\users\david\desktop\school - spring 2018\cop class\exam 4\exam 4\mccain-exam-4.c(288): warning C4716: 'displayVictoryImage': must return a value
+  Exam 4.vcxproj -> C:\Users\david\Desktop\School - Spring 2018\COP Class\Exam 4\x64\Debug\Exam 4.exe

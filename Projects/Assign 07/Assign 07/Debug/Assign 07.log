@@ -1,0 +1,6 @@
+﻿  McCain-Assign-7.c
+c:\users\david\desktop\school - spring 2018\cop class\assign 07\assign 07\mccain-assign-7.c(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\david\desktop\school - spring 2018\cop class\assign 07\assign 07\mccain-assign-7.c(30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\david\desktop\school - spring 2018\cop class\assign 07\assign 07\mccain-assign-7.c(32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\david\desktop\school - spring 2018\cop class\assign 07\assign 07\mccain-assign-7.c(14): warning C4101: 'milesTax': unreferenced local variable
+  Assign 07.vcxproj -> C:\Users\david\Desktop\School - Spring 2018\COP Class\Assign 07\Debug\Assign 07.exe

@@ -1,0 +1,4 @@
+﻿  McCain-Assign-9.c
+c:\users\david\desktop\school - spring 2018\cop class\assign 09\assign 09\mccain-assign-9.c(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\david\desktop\school - spring 2018\cop class\assign 09\assign 09\mccain-assign-9.c(17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Assign 09.vcxproj -> C:\Users\david\Desktop\School - Spring 2018\COP Class\Assign 09\Debug\Assign 09.exe
